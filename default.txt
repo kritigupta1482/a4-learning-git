@@ -1,0 +1,2 @@
+Automation testing is used to test the application
+
